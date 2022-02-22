@@ -19,9 +19,9 @@ Focus is on centering image n give some text, little style and write correctly h
 
 ### Screenshot
 
-![mobile](design/Screenshot 2022-02-22 131824.png)
+![mobile](design/ss-mobile.png)
 
-![site](design/Screenshot 2022-02-22 131643.png)
+![site](design/ss-desktop.png)
 
 ### Links
 
