@@ -15,7 +15,7 @@ This is a solution to the [Build a Tribute Page](https://tenyears.netlify.app/).
 
 ## Overview
 
-Focus is on centering image n give some text, little style and write correctly html n css.
+Focus is on centering image and give some text,style and write correctly HTML and CSS.
 
 ### Screenshot
 
