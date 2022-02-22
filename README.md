@@ -1,4 +1,4 @@
-# FreeCodeCamp **Responsive Web Design Projects** 1st project Build a Tribute Page
+# Build a Tribute Page
 
 This is a solution to the [Build a Tribute Page](https://tenyears.netlify.app/).FreeCodeCamp projects help you improve your coding skills by building realistic projects.
 
@@ -30,9 +30,9 @@ Focus is on centering image n give some text, little style and write correctly h
 
 ## My process
 
-I started with writing basic HTML where I just added picture and text about this rock band.. After it I moved on my style. I make css folder, and wrote basic css.
+I started with writing basic HTML where I just added picture and text about this rock band. After it I moved on my style. I make css folder, and wrote basic css.
 I started with this:
-In html i put some lists and texts, because its llonger text.
+In html i put some lists and texts, because its longer text.
 
 ```css
 * {
@@ -57,7 +57,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-} /* cause of parent and child i needed to make here stuff also, by putting it to be centered and width of 50%*/
+} /* cause of parent and child i needed to make here stuff also, by putting it to be centered and width of 50%, at the first moment when I wrote this code, I didnt centered pic inside div so that was my problem , but while I was writing I corrected it*/
 
 ul {
   display: block;
@@ -81,7 +81,11 @@ span {
 
 ### What I learned
 
-While working on this project I learned more how to centered picture inside div. How to justify text. How to make some lists. And how I can combine all together.
+While working on this project I learned:
+-how to centered picture inside div
+=How to justify text
+-How to make lists
+-how I can combine all together.
 
 ### Continued development
 
@@ -92,5 +96,5 @@ I will continue next with Build a Survey Form, from freeCodeCamp. I want to prac
 - Website - [Svetlana Jokic](https://my-portfolio-hollyy.netlify.app/)
 - Frontend Mentor - [@Holllyyyy](https://www.frontendmentor.io/profile/Holllyyyy)
 - Twitter - [@svetlanajokic](https://twitter.com/svetlanajokic)
-  -LinkedIn - [@Svetlana Jokic](https://www.linkedin.com/in/svetlana-jokic-787432100/)
-  -FreeCodeCamp[@hollyy](https://www.freecodecamp.org/hollyy)
+- LinkedIn - [@Svetlana Jokic](https://www.linkedin.com/in/svetlana-jokic-787432100/)
+- FreeCodeCamp - [@hollyy](https://www.freecodecamp.org/hollyy)
